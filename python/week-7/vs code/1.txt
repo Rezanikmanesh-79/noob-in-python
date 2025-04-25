@@ -1,0 +1,14 @@
+factorial is : 
+120
+febonachi : 
+112
+3
+5
+8
+13
+star maker : 
+*
+**
+***
+****
+*****

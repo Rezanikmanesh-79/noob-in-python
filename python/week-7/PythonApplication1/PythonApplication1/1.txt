@@ -1,0 +1,7 @@
+your fact is :120
+your feb is :5
+    *
+   **
+  ***
+ ****
+*****
